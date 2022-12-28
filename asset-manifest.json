@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ToDoList-useReducer-ver./static/css/main.2cc4ddc4.css",
+    "main.js": "/ToDoList-useReducer-ver./static/js/main.33c0fd3d.js",
+    "index.html": "/ToDoList-useReducer-ver./index.html",
+    "main.2cc4ddc4.css.map": "/ToDoList-useReducer-ver./static/css/main.2cc4ddc4.css.map",
+    "main.33c0fd3d.js.map": "/ToDoList-useReducer-ver./static/js/main.33c0fd3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cc4ddc4.css",
+    "static/js/main.33c0fd3d.js"
+  ]
+}
